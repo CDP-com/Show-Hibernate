@@ -2,7 +2,7 @@ Show-Hibernate
 =======================
 Description: This app returns the Hibernate feature to Window 8 machines (in addition to other things). 
 
-Version: 0.1
+Version: 0.2
 
 Notes
 ----
@@ -12,4 +12,5 @@ Include all necessary scripts to run your app either in the file provided (runap
 
 Changelog
 ----
+Version 0.2 - Added a "common" folder, akin to the App Template
 Version 0.1 - Created the repository.
